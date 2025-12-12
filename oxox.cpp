@@ -1,7 +1,8 @@
 #include<iostream>
 using namespace std;
 int sum(int a) {
-	return 0;
+	int result = a + 0;
+	return result;
 }
 int main() {
 	cout << "M";
